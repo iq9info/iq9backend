@@ -1,0 +1,11 @@
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.0.0,<3.0.0
+asyncpg>=0.29.0
+python-dotenv>=1.0.1
+passlib[bcrypt]>=1.7.4
+python-jose[cryptography]>=3.3.0
+# New LangGraph Ecosystem Additions
+langgraph>=0.2.0
+langchain-core>=0.2.27,<0.3.0
+langchain-google-genai>=1.0.5
